@@ -20,3 +20,5 @@ Project Board and Mockup of main page design are linked below:
 Our application uses an API called [Avataaars Generator](https://getavataaars.com) to generate every player's unique avatar for the duration of the game. In later versions we would like to add animations by utilizing this library's built-in variations of certain elements of the avatar to cause the avatar to emote in reaction to that player's roll.
 
 We also plan to support "spectating" and new games / multiple games in future iterations of this app.
+
+We also plan to migrate to a centralized node.js server to simplify issues with data synchronization and unserialized firebase calls.
