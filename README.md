@@ -1,7 +1,5 @@
 # LCR Online -- the dice game Left-Center-Right
 
-Project Proposal -- LEFT-CENTER-RIGHT -- a game of dice
-
 Organization: Bratwurst Productions
 
 Our project is an implementation of a multiplayer game of dice known as L-C-R, or “Left-Center-Right.” The rules are simple and the game is a fun one for parties, because it can be played for cash, making it more interesting for social gatherings.
